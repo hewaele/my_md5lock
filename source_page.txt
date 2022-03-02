@@ -1,0 +1,541 @@
+<tbody><tr>
+                                <td class="MTD0" colspan="5">
+                                    &nbsp;【 重點網站導航 】
+                                    <div style="padding: 0px 30px; float: right">
+                                       <!-- <span style="color:Red"> 新功能!! ~ </span> <a href="" onclick="return opendiv('myurl')">（自訂我的常用網站）</a>--></div>
+                                    <div class="clear">
+                                    </div>
+                                </td>
+                            </tr>
+                    <!--        <tr>
+                                <td colspan="5" align="center">
+                                      <div id="weather" style="margin-top: -8px; margin-bottom: -10px;">
+                                    </div>
+                                </td>
+                            </tr>-->
+
+         <!--                   <tr id="myurl" style="display: none;">
+                                <td width="" class="MTD1" style=""  align="center" colspan="5">
+                                    <div id="dec"></div>
+                                    <div id="addmyurl">
+
+                                        <div style="width: 400px; margin-left: 105px;">
+                                            url 網址：<input type="text" id="uname" style="width: 300px;" value="" /><br />
+                                            <span class="ex">Ex：http://www.yahoo.com</span>
+                                        </div>
+                                        <div style="">
+                                            名稱：<input type="text" name="wname" id="wname" style="width: 150px;" maxlength="14" />
+                                            <br />
+                                            <span class="ex">Ex：奇摩 yahoo</span>
+                                        </div>
+                                        <div>
+                                            <a class="button" href="#" onclick="return setmyUrl()">新增</a></div>
+                                        <div class="clear">
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>-->
+
+             <!--               <tr >
+                                <td width="" class="MTD1" style="" height="" align="center" colspan="5">
+
+                                   <div id="showurl"> </div>
+
+                                </td>
+                            </tr>-->
+
+                            <tr>
+                                <td class="MTD1" style="" align="center">
+                                 <a href="http://www.chinatimes.com/">中時電子報</a></td>
+                                <td class="MTD1"> <a href="http://udn.com">聯合新聞網</a></td>
+                                <td class="MTD1"> <a href="https://news.tvbs.com.tw/">TVBS 新聞網</a> </td>
+                                <td class="MTD1">   <a href="http://zh-tw.facebook.com">FaceBook 臉書</a> </td>
+                                <td class="MTD2"> <a href="http://tw.youtube.com">YouTube 影音</a> </td>
+                            </tr>
+
+
+                            <tr>
+                                <td class="MTD1" style="" align="center">
+                                   <a href="http://www.ettoday.net/">ETtoday 東森新聞雲</a></td>
+                                <td class="MTD1">
+                                    <a href="http://www.setn.com/">三立新聞網</a>
+                                </td>
+                                <td class="MTD1"><a href="http://www.libertytimes.com.tw">自由新聞網</a>
+
+                                </td>
+
+                            </tr>
+
+                            <tr>
+                                <td class="MTD1" style="" align="center">
+                                 <a href="https://www.bella.tw/">Bella 儂儂</a></td>
+                                <td class="MTD1"> <a href="https://www.mirrormedia.mg/">鏡週刊</a></td>
+                                <td class="MTD1"> <a href="https://www.popdaily.com.tw/">PopDaily 波波黛莉</a> </td>
+                                <td class="MTD1">   <a href="https://www.marieclaire.com.tw/">Marie Claire 美麗佳人</a> </td>
+                                <td class="MTD2"> <a href="https://www.elle.com/tw/">ELLE Taiwan</a> </td>
+                            </tr>
+
+
+
+                             <tr>
+                                <td class="MTD1" style="" align="center"><a href="https://histock.tw/">HiStock 嗨投資理財</a>
+                                   </td>
+                                <td class="MTD1"><a href="http://www.cnyes.com">鉅亨網</a>
+                                 </td>
+                                <td class="MTD1">
+                                    <a href="https://www.wantgoo.com/">玩股網</a>
+                                </td>
+                                <td class="MTD1"><a href="http://tw.stock.yahoo.com">Yahoo!奇摩股市</a></td>
+                                <td class="MTD2"><a href="http://www.cpbl.com.tw/">中華職棒大聯盟</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="MTD1" style="" align="center">
+                                    <a href="http://xuite.net/">隨意窩 Xuite</a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="https://www.pixnet.net/blog">痞客邦 PIXNET</a>
+                                </td>
+                                <td class="MTD1">
+                                   <a href="https://www.ptt.cc/bbs/hotboards.html">ptt 批踢踢實業坊</a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="https://pttcareers.com/hot">PTT 即時熱門</a>
+                                </td>
+                                <td class="MTD2">    <a href="https://www.foxsports.com.tw/">FOX 體育台</a>   </td>
+                            </tr>
+                            <tr>
+                                <td class="MTD1" style="" align="center"><a href="http://www.ruten.com.tw/">露天拍賣</a></td>
+                                <td class="MTD1"><a href="http://tw.yahoo.com">Yahoo! 奇摩</a></td>
+                                <td class="MTD1"><a href="http://www.momoshop.com.tw/">MoMo 富邦購物網</a></td>
+                                <td class="MTD2"><a href="https://www.dongtw.com/">運動新聞 DONGTW</a>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="MTD1" style="" align="center">
+                                 <a href="http://www.pchome.com.tw">PChome 網路家庭</a>
+                                </td>
+                                <td class="MTD1">
+                                </td>
+                                <td class="MTD1"><a href="https://www.cwb.gov.tw/"><font color="#0000FF">中央氣象局</font></a></td>
+                                <td class="MTD1"><a href="http://www.taiwanlottery.com.tw/"><font color="#0000FF">台灣彩券</font></a></td>
+                                <td class="MTD2"><a href="https://www.sportsv.net/">運動視界 Sports Vision</a></td>
+                            </tr>
+
+
+                            <tr>
+                                <td class="MTD1" style="" align="center">  </td>
+                                <td class="MTD1">
+                                </td>
+                                <td class="MTD1">
+                                </td>
+                               <td class="MTD1"></td>
+                                <td class="MTD2"></td>
+                            </tr>
+
+
+
+
+                            <tr>
+                                <td class="MTD1" style="" align="center">
+                                    <a href="http://www.gamme.com.tw/">卡卡洛普 Gamm</a> </td>
+                                <td class="MTD1"><a href="https://www.toy-people.com/">玩具人Toy People News</a>
+                                   </td>
+                                <td class="MTD1">
+                                     <a href="https://www.gamer.com.tw/">巴哈姆特電玩資訊站</a>
+                                </td>
+                                <td class="MTD1">
+
+                                </td>
+                                <td class="MTD2">
+                                  <a href="https://www.skegeo.com/">SkeGeo 台灣活動網</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="MTD1" style="" align="center">
+                                    <a href="https://www.bnext.com.tw">數位時代</a></td>
+                                <td class="MTD1">
+                                    <a href="http://www.businessweekly.com.tw/">商業週刊</a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="https://www.8891.com.tw/">8891
+									汽車交易網</a></td>
+                                <td class="MTD1">    <a href="http://www.mobile01.com/">Mobile01</a> </td>
+                                <td class="MTD2"><a href="https://www.digitimes.com.tw/">DIGITIMES 科技網</a>
+                                    </td>
+                            </tr>
+
+                            <tr>
+                                <td class="MTD1" style="" align="center">
+                                    <a href="http://www.techbang.com/">T客邦 - 推薦好東西</a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="https://technews.tw/">TechNews 科技新報</a></td>
+                                <td class="MTD1">
+
+                                </td>
+                                <td class="MTD1">
+                                    <a href="http://talk.tw/">Talk 滔客生活</a></td>
+                                <td class="MTD2">
+                                    <a href="http://punchline.asia/">娛樂重擊 - 電影評論</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="MTD1" style="" align="center">
+                                    <a href="http://www.family.com.tw">全家便利商店</a>
+                                </td>
+                                <td class="MTD1">
+
+                                    <a href="http://www.7-11.com.tw">7-Eleven 便利商店</a>&nbsp;
+                                </td>
+                                <td class="MTD1">
+
+                                    <a href="http://ticket.ibon.com.tw/Web/Home/Index">ibon 活動售票系統</a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="https://hub.line.me/">LINE HUB 新聞</a>
+                                </td>
+                                <td class="MTD2">
+
+                                  </td>
+                            </tr>
+                            <tr>
+                                <td class="MTD1">
+                                    <a href=""> </a>
+                                </td>
+                                <td class="MTD1">
+
+                                </td>
+                                <td class="MTD1">
+
+                                </td>
+                                <td class="MTD1">
+                                    </td>
+                                <td class="MTD2">
+
+                                </td>
+                            </tr>
+                  <!--          <tr>
+                                <td class="MTD1"  colspan="5">
+
+                                   </td>
+                            </tr>-->
+                            <tr>
+                                <td class="MTD1">       </td>
+                                <td class="MTD1">
+
+                                   <a href="https://www.niusnews.com/">妞新聞 niusnews</a>
+                                </td>
+                                <td class="MTD1">  <a href="http://www.fashion365.com.tw/">極美人時尚日誌</a>
+                                  </td>
+                                <td class="MTD1">
+                                    <a href="https://www.beauty321.com/">BEAUTY 美人圈</a></td>
+                                <td class="MTD2">
+                                  <a href="https://www.watsons.com.tw/">屈臣氏 藥妝</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="MTD1">
+                                    <a href="https://www.babyhome.com.tw/">BabyHome 親子網</a>
+                                </td>
+                                <td class="MTD1">
+                                  <a href="https://mamibuy.com.tw/">媽咪拜MamiBuy</a>
+                                </td>
+                                <td class="MTD1">  <a href="https://icook.tw/">愛料理</a>&nbsp;
+                                    </td>
+                                <td class="MTD1"> <a href="https://www.poya.com.tw/"> POYA 寶雅</a>&nbsp;
+
+                                </td>
+                                <td class="MTD2">  <a href="https://www.cosmed.com.tw/">康是美 藥妝</a>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="MTD1">
+                                    <a href="#">
+									<font color="#E81717"></font></a></td>
+                                <td class="MTD1"> <a href="http://www.books.com.tw/web/sys_tdrntb/books/">博客來書店-銷售排行榜</a>
+                                   </td>
+                                <td class="MTD1">
+                                    <a href="http://www.eslite.com/saleboard_bookstore.aspx">誠品書店-銷售排行榜</a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="http://www.kingstone.com.tw/book/book_board.asp?selltype=sell00">金石堂書店-銷售排行榜</a>
+                                </td>
+                                <td class="MTD2">
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="MTD1">
+                                    <a href="http://www.emome.net/">中華電信</a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="http://www.taiwanmobile.com/">台灣大哥大 </a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="http://www.aptg.com.tw/">亞太電信 </a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="http://www.fetnet.net/">遠傳電信</a>
+                                </td>
+                                <td class="MTD2">
+                                    <a href="http://www.tstartel.com/">台灣之星 </a>
+                                </td>
+                            </tr>
+
+                           <tr>
+                                <td class="MTD1">
+
+                                </td>
+                                <td class="MTD1">
+                                    <a href="http://www.518.com.tw/">518人力銀行</a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="http://www.104.com.tw">104 人力銀行</a>
+                                </td>
+                                <td class="MTD1">  <a href="http://www.1111.com.tw">1111 人力銀行</a>
+                                    </td>
+                                <td class="MTD2">
+
+                                </td>
+                            </tr>
+
+                             <tr>
+                                <td class="MTD1" style="" align="center">
+                                    <a href="https://www.foodpanda.com.tw/">foodpanda 美食外送</a></td>
+                                <td class="MTD1">
+                                    <a href="https://www.ubereats.com/zh-TW/">Uber Eats 美食外送</a></td>
+                                <td class="MTD1"><a href="https://tw.eztable.com/">EZTABLE 簡單桌 -訂餐</a> </td>
+                                <td class="MTD1"> <a href="http://www.17life.com">17Life 線上訂餐團購</a> </td>
+                                <td class="MTD2"> <a href="http://zh.wikipedia.org/"><font color="#0033CC">維 基 百 科</font></a><font color="#0033CC"></font> </td>
+                            </tr>
+                            <tr><td colspan="5" class="MTD1">
+
+                                 <div id="PrimeNews" style="width: 900px; margin-bottom: 5px;">  <a target="_blank" href="https://www.9900.com.tw/talk/BBSShowV2.aspx?jid=fb605e455254004ff947">     <div class="imgframe01" runat="server">         <div style="width:271px;height:165px;overflow: hidden;margin: 0px 2px;"><img width="260" src="https://www.9900news.com/images/vimg/2111/202107041330430S.webp" border="0"></div>         <div class="ns101">他們可能沒有告訴過你，生活在日本的那些不便         </div>     </div> </a> <a target="_blank" href="https://www.9900.com.tw/talk/BBSShowV2.aspx?jid=083c17e15254004ff947">     <div class="imgframe01" runat="server">         <div style="width:271px;height:165px;overflow: hidden;margin: 0px 2px;"><img width="260" src="https://www.9900news.com/images/vimg/2111/202107020054410S.webp" border="0"></div>         <div class="ns101">全球最大！亞洲首家！這7家特色星巴克，你去過幾家？         </div>     </div> </a> <a target="_blank" href="https://www.9900.com.tw/talk/BBSShowV2.aspx?jid=cd61c6055254004ff947">     <div class="imgframe01" runat="server">         <div style="width:271px;height:165px;overflow: hidden;margin: 0px 2px;"><img width="260" src="https://www.9900news.com/images/vimg/2111/202107022200030S.webp" border="0"></div>         <div class="ns101">好劇不漏追！2021上半年盤點10部「口碑認證歐美新劇」         </div>     </div> </a><div class="clear"></div></div>
+
+                                </td>
+
+                            </tr>
+                        </tbody>
+
+<tbody><tr>
+                               <td class="MTD0" colspan="5">
+                                    &nbsp;【 論壇 vs 討論區 】
+                                </td>
+                            </tr>
+
+                                         <tr>
+                                <td width="152px" class="MTD1">
+
+                                </td>
+                                <td width="152px" class="MTD1">
+                                  <a href="https://www.dcard.tw/forum/all">Dcard BBS</a>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                    <b><a href="https://disp.cc/b/">Disp BBS</a></b>
+                                </td>
+                                <td width="152px" class="MTD1">
+
+                                </td>
+                                <td class="MTD2">
+
+                                </td>
+                            </tr>
+
+
+                            <tr>
+                                <td width="152px" class="MTD1">
+                                    <a href="http://123.briian.com/forum.php">重灌狂人論壇</a>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                    <b><a href="http://bbs.wefong.com">微風論壇</a></b>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                    <b><a href="http://www.ck101.com">卡提諾王國</a></b>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                    <b><a href="http://www.eyny.com/">伊莉論壇</a></b>
+                                </td>
+                                <td class="MTD2">
+                                    <b><a href="https://www.jkforum.net/">捷克論壇 JKF</a></b>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="152px" class="MTD1">
+                                    <a href="http://www.ihao.org/dz5/">ihao 論壇</a>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                    <a href="http://www.backpackers.com.tw/forum/">背包客棧</a>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                    <a href="https://www.toy-people.com/">玩具人Toy People News</a>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                 <a href="http://2chcn.com/">日本 2ch中文网</a>
+                                </td>
+                                <td class="MTD2">
+                                <a href="http://taiwan-city.com/forum.php">台灣城市論壇</a>
+                                </td>
+                            </tr>
+
+
+
+
+
+                            <tr>
+                                <td class="MTD1">
+                                    <a href="http://motocity.com.tw">重車論壇</a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="http://www.focus-sport.club.tw">Ford Sport Club車友會</a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="http://forum.jorsindo.com">小老婆汽機車資訊網</a>
+                                </td>
+                                <td class="MTD1">
+                                    <a href="http://www.tiida.club.tw/">NISSAN 車主俱樂部</a>
+                                </td>
+                                <td class="MTD2">
+
+                                </td>
+                            </tr>
+
+
+
+                        </tbody>
+
+<table border="0" class="tab" id="table11" cellspacing="0" style="border: 1px solid #0099CC;
+                            padding-bottom: 1px" cellpadding="2" bordercolor="#DFDFFF">
+
+                      <tbody><tr>
+                                  <td class="MTD0" colspan="5">
+                                    &nbsp;【股市、期市、原物料商品、選擇權、金融財經商品投資、虛擬電子貨幣、股市模擬交易】
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td width="152px" class="MTD1" height="36">
+								<!--<a href="https://9900.com.tw/stock/Top.aspx">
+                                    台股上市個股漲幅排行榜</a>--></td>
+                                <td width="152px" class="MTD1">
+								</td>
+                                <td width="152px" class="MTD1">
+                                    <!--<a href="https://stock.9900.com.tw/exchange.aspx"> 	台幣匯率報價</a> -->
+                                <!--    <a href="https://goodinfo.tw/StockInfo/StockList.asp?MARKET_CAT=%E8%87%AA%E8%A8%82%E7%AF%A9%E9%81%B8&INDUSTRY_CAT=%E6%88%91%E7%9A%84%E6%A2%9D%E4%BB%B6&FILTER_ITEM0=%E6%B3%95%E4%BA%BA%E9%80%A3%E8%B2%B7%E6%97%A5%E6%95%B8%E2%80%93%E5%A4%96%E8%B3%87&FILTER_VAL_S0=1&FILTER_VAL_E0=6&FILTER_ITEM1=%E6%B3%95%E4%BA%BA%E9%80%A3%E8%B2%B7%E6%97%A5%E6%95%B8%E2%80%93%E6%8A%95%E4%BF%A1&FILTER_VAL_S1=1&FILTER_VAL_E1=6&FILTER_ITEM2=---%E8%AB%8B%E9%81%B8%E6%93%87%E9%81%8E%E6%BF%BE%E6%A2%9D%E4%BB%B6---&FILTER_VAL_S2=&FILTER_VAL_E2=&FILTER_ITEM3=%E6%88%90%E4%BA%A4%E5%BC%B5%E6%95%B8+%28%E5%BC%B5%29&FILTER_VAL_S3=3000&FILTER_VAL_E3=999999&FILTER_ITEM4=---%E8%AB%8B%E9%81%B8%E6%93%87%E9%81%8E%E6%BF%BE%E6%A2%9D%E4%BB%B6---&FILTER_VAL_S4=&FILTER_VAL_E4=&FILTER_ITEM5=---%E8%AB%8B%E9%81%B8%E6%93%87%E9%81%8E%E6%BF%BE%E6%A2%9D%E4%BB%B6---&FILTER_VAL_S5=&FILTER_VAL_E5=&FILTER_ITEM6=---%E8%AB%8B%E9%81%B8%E6%93%87%E9%81%8E%E6%BF%BE%E6%A2%9D%E4%BB%B6---&FILTER_VAL_S6=&FILTER_VAL_E6=&FILTER_ITEM7=---%E8%AB%8B%E9%81%B8%E6%93%87%E9%81%8E%E6%BF%BE%E6%A2%9D%E4%BB%B6---&FILTER_VAL_S7=&FILTER_VAL_E7=&FILTER_ITEM8=---%E8%AB%8B%E9%81%B8%E6%93%87%E9%81%8E%E6%BF%BE%E6%A2%9D%E4%BB%B6---&FILTER_VAL_S8=&FILTER_VAL_E8=&FILTER_ITEM9=---%E8%AB%8B%E9%81%B8%E6%93%87%E9%81%8E%E6%BF%BE%E6%A2%9D%E4%BB%B6---&FILTER_VAL_S9=&FILTER_VAL_E9=&FILTER_ITEM10=---%E8%AB%8B%E9%81%B8%E6%93%87%E9%81%8E%E6%BF%BE%E6%A2%9D%E4%BB%B6---&FILTER_VAL_S10=&FILTER_VAL_E10=&FILTER_ITEM11=---%E8%AB%8B%E9%81%B8%E6%93%87%E9%81%8E%E6%BF%BE%E6%A2%9D%E4%BB%B6---&FILTER_VAL_S11=&FILTER_VAL_E11=&FILTER_RULE0=---%E8%AB%8B%E6%8C%87%E5%AE%9A%E9%81%B8%E8%82%A1%E6%A2%9D%E4%BB%B6---&FILTER_RULE1=---%E8%AB%8B%E6%8C%87%E5%AE%9A%E9%81%B8%E8%82%A1%E6%A2%9D%E4%BB%B6---&FILTER_RULE2=---%E8%AB%8B%E6%8C%87%E5%AE%9A%E9%81%B8%E8%82%A1%E6%A2%9D%E4%BB%B6---&FILTER_RULE3=---%E8%AB%8B%E6%8C%87%E5%AE%9A%E9%81%B8%E8%82%A1%E6%A2%9D%E4%BB%B6---&FILTER_RULE4=---%E8%AB%8B%E6%8C%87%E5%AE%9A%E9%81%B8%E8%82%A1%E6%A2%9D%E4%BB%B6---&FILTER_RULE5=---%E8%AB%8B%E6%8C%87%E5%AE%9A%E9%81%B8%E8%82%A1%E6%A2%9D%E4%BB%B6---&FILTER_RANK0=---%E8%AB%8B%E6%8C%87%E5%AE%9A%E6%8E%92%E5%90%8">台股法人近日連續買超</a>
+                                -->
+                                      <a href="https://www.9900.com.tw/B001.htm"><font color="#E81717">【 台股戰情室 】</font></a>
+                                </td>
+                                <td width="152px" class="MTD1">
+
+
+                                    </td>
+                                <td class="MTD2">
+                                    </td>
+                            </tr>
+                            <tr>
+                                <td width="152px" class="MTD1" height="36"><!--<a href="https://9900.com.tw/stock/OtcTop.aspx">
+                                    台股上櫃個股漲幅排行榜</a>-->
+
+
+                                        <a href="http://www.cnyes.com">鉅亨網</a>
+                                    &nbsp;</td>
+                                <td width="152px" class="MTD1">
+
+
+                                    <a href="https://www.cmoney.tw/finance/f00025.aspx?s=3008"> CMoney 股市</a>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                    <a href="http://www.wantgoo.com/">WantGoo 玩股網</a>
+                                </td>
+                                <td width="152px" class="MTD1">    <a href="http://pchome.megatime.com.tw/">PChome 股市</a>
+                                 </td>
+                                <td class="MTD2">
+
+                                    &nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td width="152px" class="MTD1" height="36">
+                                    <a href="http://www.moneydj.com/default.htm">MoneyDJ 理財網</a>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                    <a href="https://histock.tw/tw">HiStock 投資理財</a></td>
+                                <td width="152px" class="MTD1">
+                                      <span style="padding: 2px 2px;"><a href="http://fund.bot.com.tw/z/ze/zeb/zeb.djhtm">
+                                        <font color="#E81717">台股除權息日期</font></a></span>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                    <a href="http://goodinfo.tw/">Goodinfo!台股資訊網</a></td>
+                                <td class="MTD2">
+                                    <a href="http://stocks.smartnet.com.tw/">SmartNet 智富網</a>
+                                </td>
+                            </tr>
+
+
+                               <tr style="background:#eee">
+                                <td width="152px" class="MTD1" height="36">
+                                       <a href="http://rate.bot.com.tw/gold/quote/recent">
+								臺灣銀行黃金牌價</a>
+							</td>
+                                <td width="152px" class="MTD1">
+                                         <a href="https://www.wantgoo.com/stock/twstock/stat?type=turnoverrate">台股周轉率排行</a>
+                                	</td>
+                                <td width="152px" class="MTD1">
+                                    <a href="https://goodinfo.tw/StockInfo/StockList.asp?SHEET=%E5%B9%B4%E7%8D%B2%E5%88%A9%E8%83%BD%E5%8A%9B&amp;MARKET_CAT=%E7%86%B1%E9%96%80%E6%8E%92%E8%A1%8C&amp;INDUSTRY_CAT=%E5%B9%B4%E5%BA%A6EPS%E6%9C%80%E9%AB%98">
+								台股智慧選股</a></td>
+                                <td width="152px" class="MTD1">
+                                   <a href="https://www.wantgoo.com/stock/twstock/stat?type=eps">
+									台股 - EPS排行</a>
+                                </td>
+                                <td class="MTD2"> <a href="https://www.cmoney.tw/vt/"><font color="#E81717">CMoney 股市模擬交易</font></a>   </td>
+                            </tr>
+
+
+
+                            <tr style="background:#eee">
+                                <td width="152px" class="MTD1" height="36">
+                                    <a href="http://www.wantgoo.com/stock/futures/futuresTop10/">法人期貨留倉口數</a>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                    <a href="http://www.wantgoo.com/Stock/TWStock/FinancingBearish?type=大盤籌碼變化">台股融資融券籌碼變化</a>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                         <a href="https://histock.tw/twstock">台股分類行情查詢</a>
+                                </td>
+                                <td width="152px" class="MTD1">
+                                    <a href="http://www.wantgoo.com/Stock/aStock/Margin?StockNo=2330">台股個股資券查詢</a>
+                                </td>
+                                <td class="MTD2">
+
+                                    <a href="http://www.wantgoo.com/Stock/2330">個股行情查詢</a>
+
+                                </td>
+                            </tr>
+
+                             <tr style="background:#FFEAF0;">
+                                <td width="152px" class="MTD1" height="36"><a href="http://data.eastmoney.com/zjlx/detail.html">陸股資金流向排行</a></td>
+                                <td width="152px" class="MTD1"><a href="http://data.eastmoney.com/bkzj/hy.html">陸股行業板塊資金流向</a></td>
+                                <td width="152px" class="MTD1"><a href="http://data.eastmoney.com/hsgtcg/">滬深港通資金流向</a></td>
+                                <td width="152px" class="MTD1"><a href="http://data.eastmoney.com/stock/lhb.html">陸股龍虎榜排行</a></td>
+                                <td class="MTD2"><a href="http://data.eastmoney.com/bbsj/">陸股業績報表</a></td>
+                            </tr>
+
+
+                            <tr>
+
+                                </td>
+                                <td width="152px" class="MTD1">
+
+                                </td>
+                                <td width="152px" class="MTD1">
+                             </td>
+                                <td width="152px" class="MTD1">
+                              </td>
+                                <td class="MTD2">
+                            <a href="https://www.finmart.com.tw/">全民電廠
+									(4.25%)</a>
+                                </td>
+                            </tr>
+
+                             </tbody></table>
